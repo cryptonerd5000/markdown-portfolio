@@ -1,1 +1,1 @@
-Write out some of your awesome attributes, and use emphasis (like bold or italics) to identify keywords, programming languages, or skills. 
+**this is quiete the adventure _learning to code and all_ i assume it will get easier as time goes**
